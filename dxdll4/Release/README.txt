@@ -1,0 +1,1 @@
+make sure configuration type is dll and rename to test.dll
