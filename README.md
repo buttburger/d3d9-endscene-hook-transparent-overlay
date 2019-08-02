@@ -1,2 +1,2 @@
 # d3d9-endscene-hook-transparent-overlay
-Found some stuff on unknowncheats about hooking in Directx 9, I'm still learning lol
+Now includes sprite hook! https://github.com/buttburger/d3d9-endscene-hook-transparent-overlay/tree/master/dxdll9
